@@ -25,7 +25,7 @@ int main(){
   }
   
   cout << count[5] << "\n";
-  
+  cout << count[4] << "\n";
   return 0;
   
 };
